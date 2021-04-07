@@ -1,0 +1,21 @@
+商	B	B
+品	E	E
+和	S	S
+服	B	B
+务	E	E
+
+商	B	B
+品	E	E
+和	B	B
+服	E	E
+物	B	B
+美	M	E
+价	M	B
+廉	E	E
+
+服	B	B
+务	E	E
+和	S	S
+货	B	B
+币	E	E
+
