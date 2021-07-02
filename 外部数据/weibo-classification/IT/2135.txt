@@ -1,0 +1,1 @@
+ .....这两个禁用系统会无法工作的，droidwall只是做了个可以禁用的假象，实际上Localsocket是linux进程通信的一种基本行为 || 大熊: 安卓系统和手机拨号在免检列，但是无法移除啊，美中不足，droidwall对其有监控`$LOTOzf$      饽饽对大熊说:我们和droidwall都是基于iptables的，范围不可能不一样

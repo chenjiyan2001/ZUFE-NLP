@@ -1,0 +1,1 @@
+SegmentFault 你好，我的网站需要发送激活邮件，目前使用的是smtp，很多都进了垃圾箱，我注册了amazon ses，但搞不得怎么使用，我想请教下php环境下如何使用amazon ses的，我见 segmentfault这个网站也是使用了这个服务$LOTOzf$

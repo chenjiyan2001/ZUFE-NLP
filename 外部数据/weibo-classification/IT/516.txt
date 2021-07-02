@@ -1,0 +1,1 @@
+什么是On-premises Software：与On-premises Software相对的概念应该是Software as a Service, 或者Computing in the Cloud. 即软件或者计算是安装并运行在远端Cloud/Internet/Network中的。Software as a Service翻译成软件即服务, Cloud Computing翻译成云计算。 On-premises Software本地部署软件。$LOTOzf$

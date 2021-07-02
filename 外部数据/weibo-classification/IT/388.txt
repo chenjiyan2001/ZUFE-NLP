@@ -1,0 +1,1 @@
+Google今天宣布Cloud Print云打印技术已经集成到了第16版Chrome浏览器中，这将给Web网站设计者和用户带来全新的打印体验，Chrome可以直接共享和控制打印机的访问，目前在全球已经有超过600万台这样的打印机通过Google打印服务连接到Android和iOS。$LOTOzf$

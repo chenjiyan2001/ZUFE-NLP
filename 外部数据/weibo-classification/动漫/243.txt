@@ -1,0 +1,1 @@
+ $LOTOzf$腾讯科技:【报告称Android应用收入仅相当于iOS系统24%】移动应用分析公司Flurry今天公布报告称，通过对同时运行在Android和iOS系统中的13.5万个应用程序进行分析，发现Android应用程序产生的收入只有iOS应用收入的24%。Flurry只计算了程序内购买，没包括付费下载等。http:url.cn/20UAQ8

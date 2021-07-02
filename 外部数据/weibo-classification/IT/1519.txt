@@ -1,0 +1,1 @@
+昨天恢复机器到iOS 3.1.3版本测试QuickDo三指手势，发现在3.1.3下Cydia安装任何软件后，使用Cydia重起SpringBoard会无效菊花，只能Home+Power键强制重启。使用其他软件重起SpringBoard则正常。PS：现在来看iOS 3.1.3体验实在是无法恭维。$LOTOzf$

@@ -1,0 +1,1 @@
+WP7爆重大漏洞 短信可致手机重启 - WinRumors报道称已经在Windows Phone7.5中发现一个严重缺陷，允许攻击者通过手机短信进行拒绝服务攻击（DoS），让手机自动重启。一段位于YouTube的视频重现了这一漏洞，安全人员用另一台手机向WP7.5机型... http:url.cn/2cd3C$LOTOzf$

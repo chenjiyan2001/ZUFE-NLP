@@ -1,0 +1,1 @@
+游戏类型：　ACT=动作   A·AG=动作冒险   A·RPG=动作角色扮演  FPS=主视角射击   FTG=格斗   Platform=平台动作   RAC=竞速   RPG=角色扮演   Sports=体育   TPS=第三人称视角射击$LOTOzf$

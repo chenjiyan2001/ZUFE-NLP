@@ -1,0 +1,1 @@
+《php实现的thrift socket server》 这些天用php写了个thrift的socket server，因为原来thrift的源码里php部分只有基于apache的服务器端代码，再加上前些日子看到php也能... http:url.cn/3zwPi  PHP$LOTOzf$

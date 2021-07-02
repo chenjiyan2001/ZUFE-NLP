@@ -1,0 +1,1 @@
+【需要知道的xp电脑小知识~】登陆界面背景变变色 打开注册表编辑器，找到[HKEY-USERS\.DEFAULT\Control Panel\Colors]，将Background的值改为“0 0 0”(不带引号)，这样登录背景就成了黑色$LOTOzf$

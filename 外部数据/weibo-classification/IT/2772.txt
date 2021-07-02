@@ -1,0 +1,1 @@
+受够了最近中国电信 中国电信客服 的DNS服务器的发疯,超不稳定,又爆出屏蔽Godaddy部分DNS服务.在这里推荐给大家几个安全,免费的DNS来替换电信的DNS服务器:1.Google Public DNS http:url.cn/4Qh5ni  2.OpenDNS http:url.cn/0S8czw  3.Norton DNS http:url.cn/1dnHz1$LOTOzf$
