@@ -1,0 +1,1 @@
+csdn库拿来练习挺好的，不得不感叹Linux的厉害。 统计密码使用频率：cat csdn.txt|cut -d " " -f 3|sort|uniq -c|sort -n -r|head -n 10 找出所有邮箱：cat csdn.txt|cut -d " " -f 5|sort >mail.txt$LOTOzf$

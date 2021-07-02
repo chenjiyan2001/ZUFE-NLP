@@ -1,0 +1,1 @@
+为什么我登陆CF时候，一直提示error in initrenderer() shutting down这样的错误，而今入不了游戏呢？腾讯游戏竞技平台 腾讯游戏频道 腾讯游戏$LOTOzf$

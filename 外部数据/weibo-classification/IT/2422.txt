@@ -1,0 +1,1 @@
+约定优于配置(convention over configuration)，或称“惯例重于配置”，最主要的意思，就是按照一定的约定来编程，会大幅度减少配置的工作量。$LOTOzf$

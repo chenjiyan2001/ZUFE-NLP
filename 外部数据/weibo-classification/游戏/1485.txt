@@ -1,0 +1,1 @@
+GDC China 2011在线游戏议题发布：多人角色扮演游戏基础数学 by KingsIsle Entertainment主设计Sara Jensen Schubert。本演讲将阐述如何为基本RPG系统创建灵活框架，比如游戏人物、NPC特征、道具、现金经济和经验值曲线等，以及如何创建以数据驱动的工作表。更多内容，请见http:url.cn/4XaJaF$LOTOzf$

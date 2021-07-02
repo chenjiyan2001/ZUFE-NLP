@@ -1,0 +1,1 @@
+CONCAT_WS() 代表 CONCAT With Separator ，是CONCAT()的特殊形式。第一个参数是其它参数的分隔符。分隔符的位置放在要连接的两个字符串之间。http:url.cn/20zSEd  IT技术门户网编程PHP$LOTOzf$

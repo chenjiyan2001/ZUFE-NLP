@@ -1,0 +1,1 @@
+ 清理DNS缓存     1清除ARP缓存，cmd下使用命令arp -d*代替执行。      2清除NETBT，cmd下使用命令nbtstat -R代替执行。      再清除DNS缓存，cmd下使用命令ipconfig /flushdns代替执 清理下DNS缓存也是可以有效提升网速的！$LOTOzf$      蓝羽:网速慢得我想哭。。。。

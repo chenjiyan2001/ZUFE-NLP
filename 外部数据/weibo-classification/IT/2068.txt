@@ -1,0 +1,1 @@
+Google的两步验证安全代码生成器 Authenticator 可以在Android、黑莓机(BlackBerry) 和iPhone 上使用，这跟erisign的IP access一样，跟游戏业界用的密保生成器一样，汇丰银行也提供这种密保器。$LOTOzf$

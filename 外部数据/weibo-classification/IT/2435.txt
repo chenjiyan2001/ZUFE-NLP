@@ -1,0 +1,1 @@
+出现这种错误，可能跟tcp/ip损坏有关。可能把tcp/ip协议给损坏了。导致我启动tomcat一直上面提示的错误。 网上有说把ipv6给卸载掉，但是试过了没用。重装tcp/ip不知道有没有效。 解决方法：需要为tomcat添加额外的启动参数：-Djava.net.preferIPv4Stack=true 选择服务器 右击open$LOTOzf$

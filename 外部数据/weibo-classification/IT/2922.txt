@@ -1,0 +1,1 @@
+【教程：iPhone 4使用Siri听写输入法】这个刚放出！在Cydia搜索Siri0us安装后，你的键盘中就会多了一个Siri标志，点他就可以使用Siri听写输入法了。适用于越狱后的 iPhone 4、touch 4、3GS，要求5.0及以上，只支持英文，越狱用户快去安装玩一下吧。搜索不到的先添加源cydia.if0ce.com$LOTOzf$

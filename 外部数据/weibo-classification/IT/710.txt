@@ -1,0 +1,1 @@
+我只是想画些矢量的图形来做动画，换用CAShapeLayer后性能终于好了一点，千万别用drawRect来逐帧绘制！iOS$LOTOzf$

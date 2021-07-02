@@ -1,0 +1,1 @@
+[HTML5入门之音乐播放器］ 介绍一个轻巧的HTML5音乐播放器制作教程，使用HTML5+ Jquery, 不附带播放列表， 界面还不错，可以很方便用在个人网站里。 地址 http:url.cn/0FIF10  带源码和demo$LOTOzf$
